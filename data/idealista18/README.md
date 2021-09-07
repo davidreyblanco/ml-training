@@ -19,8 +19,8 @@ En la subcarpeta *data* de este proyecto se pueden localizar los distintos fiche
 
 En los datos de INE tendremos dos ficheros:
 
-* *ine/ine-census-2011-#CLEAN_CITYNAME#.csv.gz* -> datos del censo de población y viviendas (https://www.ine.es/censos2011_datos/indicadores_seccen_rejilla.xls)[diccionario de datos]
-* *ine/ine-censal-polygon-boundaries-2011-#CLEAN_CITYNAME#.csv.gz* -> Polígonos del datos del censo de poblacion y viviendas (https://www.ine.es/censos2011_datos/cen11_datos_resultados_seccen.htm)[Fuente: ine]
+* *ine/ine-census-2011-#CLEAN_CITYNAME#.csv.gz* -> datos del censo de población y viviendas (https://www.ine.es/censos2011_datos/indicadores_seccen_rejilla.xls) [diccionario de datos]
+* *ine/ine-censal-polygon-boundaries-2011-#CLEAN_CITYNAME#.csv.gz* -> Polígonos del datos del censo de poblacion y viviendas (https://www.ine.es/censos2011_datos/cen11_datos_resultados_seccen.htm) [Fuente: ine]
 
 
 # Términos de uso
