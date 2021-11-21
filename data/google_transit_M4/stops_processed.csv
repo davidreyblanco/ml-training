@@ -1,0 +1,798 @@
+,stop_id_x,stop_name_x,parent_station_x,stop_id_y,stop_name_y,parent_station_y
+0,est_90_21,Intercambiador de Plaza de Castilla,,par_4_1,PLAZA DE CASTILLA,est_90_21
+1,est_90_21,Intercambiador de Plaza de Castilla,,acc_4_1_1,Plaza de Castilla,est_90_21
+2,est_90_21,Intercambiador de Plaza de Castilla,,acc_4_1_1040,Ascensor,est_90_21
+3,est_90_21,Intercambiador de Plaza de Castilla,,acc_4_1_1043,Intercambiador Superficie,est_90_21
+4,est_90_21,Intercambiador de Plaza de Castilla,,acc_4_1_1044,Ascensor,est_90_21
+5,est_90_21,Intercambiador de Plaza de Castilla,,acc_4_1_2,Castellana impares,est_90_21
+6,est_90_21,Intercambiador de Plaza de Castilla,,acc_4_1_3,Bravo Murillo,est_90_21
+7,est_90_21,Intercambiador de Plaza de Castilla,,acc_4_1_4,Paseo Castellana pares,est_90_21
+8,est_90_21,Intercambiador de Plaza de Castilla,,acc_4_1_773,Intercambiador,est_90_21
+9,est_90_21,Intercambiador de Plaza de Castilla,,par_4_164,PLAZA DE CASTILLA,est_90_21
+10,est_90_21,Intercambiador de Plaza de Castilla,,par_4_190,PLAZA DE CASTILLA,est_90_21
+11,est_90_25,Chamartín,,par_4_261,CHAMARTIN,est_90_25
+12,est_90_25,Chamartín,,acc_4_261_474,Chamartín,est_90_25
+13,est_90_25,Chamartín,,acc_4_261_642,Ascensor,est_90_25
+14,est_90_25,Chamartín,,par_4_189,CHAMARTIN,est_90_25
+15,est_90_54,Atocha-Renfe,,par_4_16,ATOCHA RENFE,est_90_54
+16,est_90_54,Atocha-Renfe,,acc_4_16_53,Alfonso XII,est_90_54
+17,est_90_54,Atocha-Renfe,,acc_4_16_54,Paseo Infanta Isabel,est_90_54
+18,est_90_54,Atocha-Renfe,,acc_4_16_572,Ascensor,est_90_54
+19,est_90_58,Puerta del Sol,,par_4_12,SOL,est_90_58
+20,est_90_58,Puerta del Sol,,acc_4_12_1034,Alcalá,est_90_58
+21,est_90_58,Puerta del Sol,,acc_4_12_1048,RENFE,est_90_58
+22,est_90_58,Puerta del Sol,,acc_4_12_41,Carretas,est_90_58
+23,est_90_58,Puerta del Sol,,acc_4_12_42,Carmen,est_90_58
+24,est_90_58,Puerta del Sol,,acc_4_12_43,Mayor,est_90_58
+25,est_90_58,Puerta del Sol,,acc_4_12_776,Ascensor,est_90_58
+26,est_90_58,Puerta del Sol,,acc_4_12_777,Preciados,est_90_58
+27,est_90_58,Puerta del Sol,,par_4_35,SOL,est_90_58
+28,est_90_58,Puerta del Sol,,par_4_48,SOL,est_90_58
+29,est_4_10,TRIBUNAL,,acc_4_10_35,Fuencarral,est_4_10
+30,est_4_10,TRIBUNAL,,acc_4_10_36,Tribunal de Cuentas,est_4_10
+31,est_4_10,TRIBUNAL,,par_4_196,TRIBUNAL,est_4_10
+32,est_4_11,GRAN VIA,,acc_4_11_37,Gran Vía,est_4_11
+33,est_4_11,GRAN VIA,,acc_4_11_38,Gran Vía,est_4_11
+34,est_4_11,GRAN VIA,,acc_4_11_39,Fuencarral,est_4_11
+35,est_4_11,GRAN VIA,,acc_4_11_40,Montera,est_4_11
+36,est_4_11,GRAN VIA,,par_4_87,GRAN VIA,est_4_11
+37,est_4_13,TIRSO DE MOLINA,,acc_4_13_44,Conde de Romanones,est_4_13
+38,est_4_13,TIRSO DE MOLINA,,acc_4_13_45,Magdalena,est_4_13
+39,est_4_14,ANTON MARTIN,,acc_4_14_46,Amor de Dios,est_4_14
+40,est_4_14,ANTON MARTIN,,acc_4_14_47,Magdalena,est_4_14
+41,est_4_14,ANTON MARTIN,,acc_4_14_49,Atocha impares,est_4_14
+42,est_4_14,ANTON MARTIN,,acc_4_14_50,Atocha pares,est_4_14
+43,est_4_15,ESTACION DEL ARTE,,acc_4_15_51,Atocha,est_4_15
+44,est_4_15,ESTACION DEL ARTE,,acc_4_15_52,Ministerio,est_4_15
+45,est_4_17,MENENDEZ PELAYO,,acc_4_17_57,Menéndez Pelayo impares,est_4_17
+46,est_4_17,MENENDEZ PELAYO,,acc_4_17_58,Menéndez Pelayo pares,est_4_17
+47,est_4_17,MENENDEZ PELAYO,,acc_4_17_59,Gutenberg,est_4_17
+48,est_4_18,PACIFICO,,acc_4_18_1050,Ascensor,est_4_18
+49,est_4_18,PACIFICO,,acc_4_18_60,Doctor Esquerdo pares,est_4_18
+50,est_4_18,PACIFICO,,acc_4_18_61,Doctor Esquerdo impares,est_4_18
+51,est_4_18,PACIFICO,,acc_4_18_62,Sánchez Barcaíztegui,est_4_18
+52,est_4_18,PACIFICO,,par_4_112,PACIFICO,est_4_18
+53,est_4_19,PUENTE DE VALLECAS,,acc_4_19_63,Albufera pares,est_4_19
+54,est_4_19,PUENTE DE VALLECAS,,acc_4_19_64,Albufera impares,est_4_19
+55,est_4_19,PUENTE DE VALLECAS,,acc_4_19_65,Peña Prieta,est_4_19
+56,est_4_2,VALDEACEDERAS,,acc_4_2_5,Capitán Blanco Argibay,est_4_2
+57,est_4_2,VALDEACEDERAS,,acc_4_2_6,Aníbal,est_4_2
+58,est_4_20,NUEVA NUMANCIA,,acc_4_20_66,Avenida de la Albufera pares (N),est_4_20
+59,est_4_20,NUEVA NUMANCIA,,acc_4_20_67,Avenida de la Albufera impares (N),est_4_20
+60,est_4_20,NUEVA NUMANCIA,,acc_4_20_68,Avenida de la Albufera impares (S),est_4_20
+61,est_4_20,NUEVA NUMANCIA,,acc_4_20_69,Avenida de la Albufera pares (S),est_4_20
+62,est_4_21,PORTAZGO,,acc_4_21_1093,Ascensor 1,est_4_21
+63,est_4_21,PORTAZGO,,acc_4_21_1094,Ascensor 2,est_4_21
+64,est_4_21,PORTAZGO,,acc_4_21_70,Albufera pares,est_4_21
+65,est_4_21,PORTAZGO,,acc_4_21_71,Rogelio Folgueras,est_4_21
+66,est_4_21,PORTAZGO,,acc_4_21_72,Albufera impares,est_4_21
+67,est_4_21,PORTAZGO,,acc_4_21_73,Teniente Muñoz Díaz,est_4_21
+68,est_4_22,BUENOS AIRES,,acc_4_22_74,Pío Felipe,est_4_22
+69,est_4_22,BUENOS AIRES,,acc_4_22_75,Buenos Aires,est_4_22
+70,est_4_23,ALTO DEL ARENAL,,acc_4_23_76,Albufera impares,est_4_23
+71,est_4_23,ALTO DEL ARENAL,,acc_4_23_77,Albufera pares,est_4_23
+72,est_4_23,ALTO DEL ARENAL,,acc_4_23_78,Ascensor,est_4_23
+73,est_4_24,MIGUEL HERNANDEZ,,acc_4_24_79,Rafael Alberti - Ambulatorio,est_4_24
+74,est_4_24,MIGUEL HERNANDEZ,,acc_4_24_80,Albufera pares,est_4_24
+75,est_4_24,MIGUEL HERNANDEZ,,acc_4_24_81,Aparcamiento,est_4_24
+76,est_4_24,MIGUEL HERNANDEZ,,acc_4_24_82,Ascensor,est_4_24
+77,est_4_25,SIERRA DE GUADALUPE,,acc_4_25_577,Acceso Glorieta RENFE,est_4_25
+78,est_4_25,SIERRA DE GUADALUPE,,acc_4_25_83,Avenida de la Democracia,est_4_25
+79,est_4_25,SIERRA DE GUADALUPE,,acc_4_25_84,Correspondencia RENFE,est_4_25
+80,est_4_25,SIERRA DE GUADALUPE,,acc_4_25_85,Ascensor exterior RENFE,est_4_25
+81,est_4_25,SIERRA DE GUADALUPE,,acc_4_25_86,Avda. de la Democracia - Arboleda,est_4_25
+82,est_4_26,VILLA DE VALLECAS,,acc_4_26_87,Pº Federico García Lorca,est_4_26
+83,est_4_26,VILLA DE VALLECAS,,acc_4_26_88,Sierra Vieja,est_4_26
+84,est_4_26,VILLA DE VALLECAS,,acc_4_26_89,Ascensor,est_4_26
+85,est_4_262,BAMBU,,acc_4_262_643,Bambú,est_4_262
+86,est_4_262,BAMBU,,acc_4_262_644,Ascensor,est_4_262
+87,est_4_263,PINAR DE CHAMARTIN,,acc_4_263_645,Arturo Soria,est_4_263
+88,est_4_263,PINAR DE CHAMARTIN,,acc_4_263_646,Ascensor,est_4_263
+89,est_4_263,PINAR DE CHAMARTIN,,par_4_266,PINAR DE CHAMARTIN,est_4_263
+90,est_4_27,CONGOSTO,,acc_4_27_90,Congosto,est_4_27
+91,est_4_27,CONGOSTO,,acc_4_27_91,Plaza de Congosto,est_4_27
+92,est_4_27,CONGOSTO,,acc_4_27_92,Ascensor,est_4_27
+93,est_4_293,LA GAVIA,,acc_4_293_713,Avda. Ensanche de Vallecas,est_4_293
+94,est_4_293,LA GAVIA,,acc_4_293_714,Ascensor,est_4_293
+95,est_4_294,LAS SUERTES,,acc_4_294_715,Cañada del Santísimo,est_4_294
+96,est_4_294,LAS SUERTES,,acc_4_294_716,Ascensor,est_4_294
+97,est_4_295,VALDECARROS,,acc_4_295_717,Avda. Ensanche de Vallecas,est_4_295
+98,est_4_295,VALDECARROS,,acc_4_295_718,Ascensor,est_4_295
+99,est_4_3,TETUAN,,acc_4_3_7,Algodonales,est_4_3
+100,est_4_3,TETUAN,,acc_4_3_8,General Margallo,est_4_3
+101,est_4_4,ESTRECHO,,acc_4_4_10,Juan de Olías,est_4_4
+102,est_4_4,ESTRECHO,,acc_4_4_11,Manuel Luna,est_4_4
+103,est_4_4,ESTRECHO,,acc_4_4_12,Fulgencio de Miguel,est_4_4
+104,est_4_4,ESTRECHO,,acc_4_4_9,Navarra,est_4_4
+105,est_4_5,ALVARADO,,acc_4_5_13,Bravo Murillo impares,est_4_5
+106,est_4_5,ALVARADO,,acc_4_5_14,Bravo Murillo pares,est_4_5
+107,est_4_6,CUATRO CAMINOS,,acc_4_6_15,Reina Victoria impares,est_4_6
+108,est_4_6,CUATRO CAMINOS,,acc_4_6_16,Santa Engracia,est_4_6
+109,est_4_6,CUATRO CAMINOS,,acc_4_6_17,Reina Victoria pares,est_4_6
+110,est_4_6,CUATRO CAMINOS,,acc_4_6_18,Bravo Murillo,est_4_6
+111,est_4_6,CUATRO CAMINOS,,acc_4_6_19,Maudes,est_4_6
+112,est_4_6,CUATRO CAMINOS,,acc_4_6_615,Ascensor exterior,est_4_6
+113,est_4_6,CUATRO CAMINOS,,par_4_42,CUATRO CAMINOS,est_4_6
+114,est_4_6,CUATRO CAMINOS,,par_4_121,CUATRO CAMINOS,est_4_6
+115,est_4_7,RIOS ROSAS,,acc_4_7_20,Ríos Rosas pares,est_4_7
+116,est_4_7,RIOS ROSAS,,acc_4_7_21,Ríos Rosas impares,est_4_7
+117,est_4_7,RIOS ROSAS,,acc_4_7_22,Bretón de los Herreros,est_4_7
+118,est_4_8,IGLESIA,,acc_4_8_23,General Martínez Campos,est_4_8
+119,est_4_8,IGLESIA,,acc_4_8_24,Santa Engracia,est_4_8
+120,est_4_8,IGLESIA,,acc_4_8_25,Sagunto,est_4_8
+121,est_4_8,IGLESIA,,acc_4_8_26,Eloy Gonzalo pares,est_4_8
+122,est_4_8,IGLESIA,,acc_4_8_27,Eloy Gonzalo impares,est_4_8
+123,est_4_8,IGLESIA,,acc_4_8_774,Ascensor,est_4_8
+124,est_4_8,IGLESIA,,acc_4_8_775,Ascensor,est_4_8
+125,est_4_9,BILBAO,,acc_4_9_28,Fuencarral,est_4_9
+126,est_4_9,BILBAO,,acc_4_9_29,Luchana,est_4_9
+127,est_4_9,BILBAO,,acc_4_9_30,Manuela Malasaña,est_4_9
+128,est_4_9,BILBAO,,acc_4_9_31,Francisco de Rojas,est_4_9
+129,est_4_9,BILBAO,,acc_4_9_32,Luchana impares,est_4_9
+130,est_4_9,BILBAO,,acc_4_9_33,Trafalgar,est_4_9
+131,est_4_9,BILBAO,,par_4_56,BILBAO,est_4_9
+132,est_4_260,LA ELIPA,,acc_4_260_640,Avda. Marqués de Corbera,est_4_260
+133,est_4_260,LA ELIPA,,acc_4_260_641,Ascensor,est_4_260
+134,est_4_28,VENTAS,,acc_4_28_93,Plaza de Toros,est_4_28
+135,est_4_28,VENTAS,,acc_4_28_94,Plaza de Toros,est_4_28
+136,est_4_28,VENTAS,,par_4_81,VENTAS,est_4_28
+137,est_4_29,MANUEL BECERRA,,acc_4_29_95,D. Ramón de la Cruz,est_4_29
+138,est_4_29,MANUEL BECERRA,,acc_4_29_96,Doctor Esquerdo,est_4_29
+139,est_4_29,MANUEL BECERRA,,par_4_116,MANUEL BECERRA,est_4_29
+140,est_4_30,GOYA,,acc_4_30_100,Felipe II impares,est_4_30
+141,est_4_30,GOYA,,acc_4_30_101,General Díaz Porlier,est_4_30
+142,est_4_30,GOYA,,acc_4_30_778,Ascensor ext nº4 a A2 L4,est_4_30
+143,est_4_30,GOYA,,acc_4_30_779,Ascensor ext nº5 a A2 L4,est_4_30
+144,est_4_30,GOYA,,acc_4_30_780,Ascensor ext nº2 a A1 L2,est_4_30
+145,est_4_30,GOYA,,acc_4_30_781,Ascensor ext nº3 a A1 L2,est_4_30
+146,est_4_30,GOYA,,acc_4_30_782,Ascensor exterior,est_4_30
+147,est_4_30,GOYA,,acc_4_30_97,Conde de Peñalver pares,est_4_30
+148,est_4_30,GOYA,,acc_4_30_98,Conde de Peñalver impares,est_4_30
+149,est_4_30,GOYA,,acc_4_30_99,Felipe II pares,est_4_30
+150,est_4_30,GOYA,,par_4_61,GOYA,est_4_30
+151,est_4_31,PRINCIPE DE VERGARA,,acc_4_31_103,Alcalá,est_4_31
+152,est_4_31,PRINCIPE DE VERGARA,,par_4_172,PRINCIPE DE VERGARA,est_4_31
+153,est_4_32,RETIRO,,acc_4_32_104,Lagasca,est_4_32
+154,est_4_32,RETIRO,,acc_4_32_105,Rampa,est_4_32
+155,est_4_32,RETIRO,,acc_4_32_106,Retiro,est_4_32
+156,est_4_32,RETIRO,,acc_4_32_107,Claudio Coello,est_4_32
+157,est_4_322,LA ALMUDENA,,acc_4_322_1058,Arriaga,est_4_322
+158,est_4_322,LA ALMUDENA,,acc_4_322_1059,Ascensor Exterior,est_4_322
+159,est_4_323,ALSACIA,,acc_4_323_1060,Acceso Intercambiador,est_4_323
+160,est_4_323,ALSACIA,,acc_4_323_1061,Ascensor Exterior Nº1,est_4_323
+161,est_4_323,ALSACIA,,acc_4_323_1062,Avenida de Guadalajara,est_4_323
+162,est_4_323,ALSACIA,,acc_4_323_1063,Ascensor Exterior Nº 2,est_4_323
+163,est_4_324,AVENIDA DE GUADALAJARA,,acc_4_324_1064,Dresde,est_4_324
+164,est_4_324,AVENIDA DE GUADALAJARA,,acc_4_324_1065,Ascensor Exterior,est_4_324
+165,est_4_325,LAS ROSAS,,acc_4_325_1066,Paseo de Ginebra,est_4_325
+166,est_4_325,LAS ROSAS,,acc_4_325_1067,Ascensor Exterior,est_4_325
+167,est_4_33,BANCO DE ESPAÑA,,acc_4_33_108,Palacio de Buenavista,est_4_33
+168,est_4_33,BANCO DE ESPAÑA,,acc_4_33_109,Banco de España,est_4_33
+169,est_4_33,BANCO DE ESPAÑA,,acc_4_33_110,Marqués de Cubas,est_4_33
+170,est_4_33,BANCO DE ESPAÑA,,acc_4_33_111,Barquillo,est_4_33
+171,est_4_34,SEVILLA,,acc_4_34_1097,Alcalá,est_4_34
+172,est_4_34,SEVILLA,,acc_4_34_1098,Ascensor,est_4_34
+173,est_4_36,OPERA,,acc_4_36_1054,Arenal,est_4_36
+174,est_4_36,OPERA,,acc_4_36_1056,Campomanes,est_4_36
+175,est_4_36,OPERA,,acc_4_36_1057,Ascensor,est_4_36
+176,est_4_36,OPERA,,par_4_89,OPERA,est_4_36
+177,est_4_36,OPERA,,par_4_237,OPERA,est_4_36
+178,est_4_37,SANTO DOMINGO,,acc_4_37_116,Santo Domingo,est_4_37
+179,est_4_37,SANTO DOMINGO,,acc_4_37_117,Gran Vía,est_4_37
+180,est_4_39,SAN BERNARDO,,acc_4_39_120,Alberto Aguilera,est_4_39
+181,est_4_39,SAN BERNARDO,,acc_4_39_121,Carranza,est_4_39
+182,est_4_39,SAN BERNARDO,,par_4_55,SAN BERNARDO,est_4_39
+183,est_4_40,QUEVEDO,,acc_4_40_122,Arapiles,est_4_40
+184,est_4_40,QUEVEDO,,acc_4_40_123,Fuencarral,est_4_40
+185,est_4_41,CANAL,,acc_4_41_124,Bravo Murillo pares,est_4_41
+186,est_4_41,CANAL,,acc_4_41_125,Bravo Murillo impares,est_4_41
+187,est_4_41,CANAL,,acc_4_41_126,Ascensor,est_4_41
+188,est_4_41,CANAL,,par_4_144,CANAL,est_4_41
+189,est_90_14,Intercambiador de Moncloa,,par_4_53,MONCLOA,est_90_14
+190,est_90_14,Intercambiador de Moncloa,,acc_4_53_155,Acceso Intercambiador Ejercito del Aire,est_90_14
+191,est_90_14,Intercambiador de Moncloa,,acc_4_53_156,Princesa,est_90_14
+192,est_90_14,Intercambiador de Moncloa,,acc_4_53_157,Ascensor exterior intercambiador,est_90_14
+193,est_90_14,Intercambiador de Moncloa,,acc_4_53_579,Edificio de acceso intercambiador,est_90_14
+194,est_90_14,Intercambiador de Moncloa,,acc_4_53_798,Arcipreste de Hita,est_90_14
+195,est_90_14,Intercambiador de Moncloa,,acc_4_53_807,Intercambiador E. del Aire,est_90_14
+196,est_90_14,Intercambiador de Moncloa,,par_4_125,MONCLOA,est_90_14
+197,est_4_267,ALMENDRALES,,acc_4_267_651,Avda. Córdoba impares,est_4_267
+198,est_4_267,ALMENDRALES,,acc_4_267_652,Avda. Córdoba pares,est_4_267
+199,est_4_267,ALMENDRALES,,acc_4_267_653,Ascensor,est_4_267
+200,est_4_268,HOSPITAL 12 DE OCTUBRE,,acc_4_268_654,Glorieta de Málaga,est_4_268
+201,est_4_268,HOSPITAL 12 DE OCTUBRE,,acc_4_268_655,Ascensor,est_4_268
+202,est_4_269,SAN FERMÍN-ORCASUR,,acc_4_269_656,Avda. Perla,est_4_269
+203,est_4_269,SAN FERMÍN-ORCASUR,,acc_4_269_657,Avda. Andalucia pares,est_4_269
+204,est_4_269,SAN FERMÍN-ORCASUR,,acc_4_269_658,Ascensor,est_4_269
+205,est_4_270,CIUDAD DE LOS ANGELES,,acc_4_270_659,Tertulia,est_4_270
+206,est_4_270,CIUDAD DE LOS ANGELES,,acc_4_270_660,Paseo Gigantes y Cabezudos,est_4_270
+207,est_4_270,CIUDAD DE LOS ANGELES,,acc_4_270_661,Ascensor,est_4_270
+208,est_4_271,VILLAVERDE BAJO CRUCE,,acc_4_271_662,Santiago Amón,est_4_271
+209,est_4_271,VILLAVERDE BAJO CRUCE,,acc_4_271_663,Santa Petronila,est_4_271
+210,est_4_271,VILLAVERDE BAJO CRUCE,,acc_4_271_664,Ascensor,est_4_271
+211,est_4_272,SAN CRISTÓBAL,,acc_4_272_665,Moncada,est_4_272
+212,est_4_272,SAN CRISTÓBAL,,acc_4_272_666,Avda. Andalucía pares,est_4_272
+213,est_4_272,SAN CRISTÓBAL,,acc_4_272_667,Ascensor,est_4_272
+214,est_4_273,VILLAVERDE ALTO,,acc_4_273_668,Valle de Tobalina,est_4_273
+215,est_4_273,VILLAVERDE ALTO,,acc_4_273_670,Ascensor,est_4_273
+216,est_4_43,LEGAZPI,,acc_4_43_127,Plaza de Legazpi,est_4_43
+217,est_4_43,LEGAZPI,,acc_4_43_128,Beata María Ana de Jesús,est_4_43
+218,est_4_43,LEGAZPI,,acc_4_43_783,Plaza de Legazpi esquina Bolivar,est_4_43
+219,est_4_43,LEGAZPI,,acc_4_43_784,Ascensor,est_4_43
+220,est_4_43,LEGAZPI,,par_4_110,LEGAZPI,est_4_43
+221,est_4_44,DELICIAS,,acc_4_44_129,Cáceres,est_4_44
+222,est_4_44,DELICIAS,,acc_4_44_130,Ciudad Real,est_4_44
+223,est_4_44,DELICIAS,,acc_4_44_785,Pº de las Delicias impares,est_4_44
+224,est_4_44,DELICIAS,,acc_4_44_786,Ascensor,est_4_44
+225,est_4_45,PALOS DE LA FRONTERA,,acc_4_45_131,Paseo de las Delicias,est_4_45
+226,est_4_45,PALOS DE LA FRONTERA,,acc_4_45_787,Palos de la Frontera impares,est_4_45
+227,est_4_45,PALOS DE LA FRONTERA,,acc_4_45_788,Ascensor,est_4_45
+228,est_4_46,EMBAJADORES,,acc_4_46_136,Embajadores,est_4_46
+229,est_4_46,EMBAJADORES,,acc_4_46_137,Ronda de Valencia,est_4_46
+230,est_4_46,EMBAJADORES,,acc_4_46_789,Ascensor,est_4_46
+231,est_4_46,EMBAJADORES,,acc_4_92_251,Pº Esperanza,est_4_46
+232,est_4_47,LAVAPIES,,acc_4_47_790,Ascensor,est_4_47
+233,est_4_47,LAVAPIES,,acc_4_47_791,Argumosa,est_4_47
+234,est_4_49,CALLAO,,acc_4_49_139,Centro Comercial,est_4_49
+235,est_4_49,CALLAO,,acc_4_49_140,Plaza de Callao,est_4_49
+236,est_4_49,CALLAO,,acc_4_49_141,Gran Vía,est_4_49
+237,est_4_49,CALLAO,,acc_4_49_142,Palacio de la Prensa,est_4_49
+238,est_4_49,CALLAO,,acc_4_49_792,Jacometrezo,est_4_49
+239,est_4_49,CALLAO,,acc_4_49_793,Ascensor,est_4_49
+240,est_4_49,CALLAO,,acc_4_49_794,Ascensor,est_4_49
+241,est_4_49,CALLAO,,par_4_88,CALLAO,est_4_49
+242,est_4_50,PLAZA DE ESPAÑA,,acc_4_38_118,Ministerio de Justicia,est_4_50
+243,est_4_50,PLAZA DE ESPAÑA,,acc_4_38_119,Noviciado,est_4_50
+244,est_4_50,PLAZA DE ESPAÑA,,acc_4_50_143,Leganitos,est_4_50
+245,est_4_50,PLAZA DE ESPAÑA,,acc_4_50_144,Gran Vía,est_4_50
+246,est_4_50,PLAZA DE ESPAÑA,,acc_4_50_145,Plaza de España,est_4_50
+247,est_4_50,PLAZA DE ESPAÑA,,acc_4_50_146,Reyes,est_4_50
+248,est_4_50,PLAZA DE ESPAÑA,,acc_4_50_147,Princesa,est_4_50
+249,est_4_50,PLAZA DE ESPAÑA,,acc_4_50_148,Ascensor,est_4_50
+250,est_4_50,PLAZA DE ESPAÑA,,acc_4_50_149,Ascensor,est_4_50
+251,est_4_50,PLAZA DE ESPAÑA,,acc_4_50_795,Ascensor,est_4_50
+252,est_4_50,PLAZA DE ESPAÑA,,par_4_197,PLAZA DE ESPAÑA,est_4_50
+253,est_4_51,VENTURA RODRIGUEZ,,acc_4_51_150,Princesa impares,est_4_51
+254,est_4_51,VENTURA RODRIGUEZ,,acc_4_51_618,Princesa pares,est_4_51
+255,est_4_51,VENTURA RODRIGUEZ,,acc_4_51_796,Ascensor,est_4_51
+256,est_4_52,ARGÜELLES,,acc_4_52_1099,Guzmán el Bueno - Ascensor,est_4_52
+257,est_4_52,ARGÜELLES,,acc_4_52_151,Princesa,est_4_52
+258,est_4_52,ARGÜELLES,,acc_4_52_152,Alberto Aguilera,est_4_52
+259,est_4_52,ARGÜELLES,,acc_4_52_153,Altamirano,est_4_52
+260,est_4_52,ARGÜELLES,,acc_4_52_154,Guzmán el Bueno,est_4_52
+261,est_4_52,ARGÜELLES,,acc_4_52_797,Alberto Aguilera - Ascensor,est_4_52
+262,est_4_52,ARGÜELLES,,par_4_54,ARGÜELLES,est_4_52
+263,est_4_52,ARGÜELLES,,par_4_126,ARGÜELLES,est_4_52
+264,est_90_4,Intercambiador de Avenida de América,,par_4_64,AVENIDA DE AMERICA,est_90_4
+265,est_90_4,Intercambiador de Avenida de América,,acc_4_64_181,Avda. América impares,est_90_4
+266,est_90_4,Intercambiador de Avenida de América,,acc_4_64_182,Avda. América pares,est_90_4
+267,est_90_4,Intercambiador de Avenida de América,,acc_4_64_184,Ascensor exterior intercambiador,est_90_4
+268,est_90_4,Intercambiador de Avenida de América,,acc_4_64_185,Pedro Valdivia,est_90_4
+269,est_90_4,Intercambiador de Avenida de América,,par_4_118,AVENIDA DE AMERICA,est_90_4
+270,est_90_4,Intercambiador de Avenida de América,,par_4_141,AVENIDA DE AMERICA,est_90_4
+271,est_90_4,Intercambiador de Avenida de América,,par_4_170,AVENIDA DE AMERICA,est_90_4
+272,est_4_264,HORTALEZA,,acc_4_264_647,Capitán Cortés,est_4_264
+273,est_4_264,HORTALEZA,,acc_4_264_648,Costa del Sol,est_4_264
+274,est_4_265,MANOTERAS,,acc_4_265_649,Vélez Rubio,est_4_265
+275,est_4_265,MANOTERAS,,acc_4_265_650,Ascensor,est_4_265
+276,est_4_57,ALONSO MARTINEZ,,acc_4_57_160,Santa Bárbara,est_4_57
+277,est_4_57,ALONSO MARTINEZ,,acc_4_57_161,Génova pares,est_4_57
+278,est_4_57,ALONSO MARTINEZ,,acc_4_57_162,Santa Engracia,est_4_57
+279,est_4_57,ALONSO MARTINEZ,,acc_4_57_163,Hermanos Álvarez Quintero,est_4_57
+280,est_4_57,ALONSO MARTINEZ,,par_4_85,ALONSO MARTINEZ,est_4_57
+281,est_4_57,ALONSO MARTINEZ,,par_4_195,ALONSO MARTINEZ,est_4_57
+282,est_4_58,COLON,,acc_4_58_164,Génova impares,est_4_58
+283,est_4_58,COLON,,acc_4_58_165,Génova pares,est_4_58
+284,est_4_59,SERRANO,,acc_4_59_167,Serrano,est_4_59
+285,est_4_59,SERRANO,,acc_4_59_168,Goya pares,est_4_59
+286,est_4_59,SERRANO,,acc_4_59_169,Goya impares,est_4_59
+287,est_4_59,SERRANO,,acc_4_59_170,Goya pares,est_4_59
+288,est_4_60,VELAZQUEZ,,acc_4_60_171,Goya impares,est_4_60
+289,est_4_60,VELAZQUEZ,,acc_4_60_172,Goya pares,est_4_60
+290,est_4_60,VELAZQUEZ,,acc_4_60_173,Goya impares,est_4_60
+291,est_4_60,VELAZQUEZ,,acc_4_60_174,Goya pares,est_4_60
+292,est_4_62,LISTA,,acc_4_62_175,Conde de Peñalver,est_4_62
+293,est_4_62,LISTA,,acc_4_62_176,Conde de Peñalver,est_4_62
+294,est_4_63,DIEGO DE LEON,,acc_4_63_177,Diego de León,est_4_63
+295,est_4_63,DIEGO DE LEON,,acc_4_63_178,Francisco Silvela impares,est_4_63
+296,est_4_63,DIEGO DE LEON,,acc_4_63_179,Francisco Silvela pares,est_4_63
+297,est_4_63,DIEGO DE LEON,,acc_4_63_180,Francisco Silvela pares,est_4_63
+298,est_4_63,DIEGO DE LEON,,acc_4_63_234,Juan Bravo - Conde Peñalver,est_4_63
+299,est_4_63,DIEGO DE LEON,,acc_4_63_235,Juan Bravo - Alcántara,est_4_63
+300,est_4_63,DIEGO DE LEON,,acc_4_63_236,Francisco Silvela pares,est_4_63
+301,est_4_63,DIEGO DE LEON,,acc_4_63_237,Francisco Silvela pares,est_4_63
+302,est_4_63,DIEGO DE LEON,,acc_4_63_238,Alcántara,est_4_63
+303,est_4_63,DIEGO DE LEON,,par_4_82,DIEGO DE LEON,est_4_63
+304,est_4_63,DIEGO DE LEON,,par_4_117,DIEGO DE LEON,est_4_63
+305,est_4_65,PROSPERIDAD,,acc_4_65_186,Plaza Prosperidad,est_4_65
+306,est_4_66,ALFONSO XIII,,acc_4_66_187,Clara del Rey,est_4_66
+307,est_4_67,AVENIDA DE LA PAZ,,acc_4_67_188,Ramón y Cajal pares,est_4_67
+308,est_4_67,AVENIDA DE LA PAZ,,acc_4_67_189,Avenida de la Paz,est_4_67
+309,est_4_67,AVENIDA DE LA PAZ,,acc_4_67_190,Ramón y Cajal impares,est_4_67
+310,est_4_68,ARTURO SORIA,,acc_4_68_191,Ulises,est_4_68
+311,est_4_68,ARTURO SORIA,,acc_4_68_192,Arturo Soria,est_4_68
+312,est_4_68,ARTURO SORIA,,acc_4_68_193,José Silva impares,est_4_68
+313,est_4_68,ARTURO SORIA,,acc_4_68_194,Ulises impares,est_4_68
+314,est_4_69,ESPERANZA,,acc_4_69_195,Andorra,est_4_69
+315,est_4_70,CANILLAS,,acc_4_70_196,Avda. Machupichu impares,est_4_70
+316,est_4_70,CANILLAS,,acc_4_70_197,Ramón Power,est_4_70
+317,est_4_70,CANILLAS,,acc_4_70_198,Montalbos,est_4_70
+318,est_4_70,CANILLAS,,acc_4_70_199,Mota del Cuervo,est_4_70
+319,est_4_70,CANILLAS,,acc_4_70_200,Ascensor,est_4_70
+320,est_4_71,MAR DE CRISTAL,,acc_4_71_201,Arequipa,est_4_71
+321,est_4_71,MAR DE CRISTAL,,acc_4_71_202,Gta. Mar de Cristal,est_4_71
+322,est_4_71,MAR DE CRISTAL,,acc_4_71_203,Mar Adriático,est_4_71
+323,est_4_71,MAR DE CRISTAL,,acc_4_71_204,Ascensor,est_4_71
+324,est_4_71,MAR DE CRISTAL,,par_4_157,MAR DE CRISTAL,est_4_71
+325,est_4_72,SAN LORENZO,,acc_4_72_205,Avda. Barranquilla impares,est_4_72
+326,est_4_72,SAN LORENZO,,acc_4_72_206,Avda. Barranquilla pares,est_4_72
+327,est_4_72,SAN LORENZO,,acc_4_72_207,Ascensor,est_4_72
+328,est_4_73,PARQUE DE SANTA MARIA,,acc_4_73_208,Santa Virgilia,est_4_73
+329,est_4_73,PARQUE DE SANTA MARIA,,acc_4_73_209,Los Arcos,est_4_73
+330,est_4_73,PARQUE DE SANTA MARIA,,acc_4_73_210,Ascensor,est_4_73
+331,est_90_1,Aluche,,par_4_100,ALUCHE,est_90_1
+332,est_90_1,Aluche,,acc_4_100_271,Avda. Poblados,est_90_1
+333,est_90_1,Aluche,,acc_4_100_272,Maqueda,est_90_1
+334,est_90_1,Aluche,,acc_4_100_273,Acceso RENFE,est_90_1
+335,est_90_1,Aluche,,acc_4_100_274,Maqueda,est_90_1
+336,est_90_1,Aluche,,acc_4_100_275,Avda. Poblados,est_90_1
+337,est_90_1,Aluche,,acc_4_100_276,Terminal Autobuses,est_90_1
+338,est_90_1,Aluche,,acc_4_100_277,Terminal Autobuses,est_90_1
+339,est_4_101,EMPALME,,acc_4_101_278,Padre Piquer,est_4_101
+340,est_4_102,CAMPAMENTO,,acc_4_102_279,Padre Piquer pares,est_4_102
+341,est_4_102,CAMPAMENTO,,acc_4_102_280,Padre Piquer impares,est_4_102
+342,est_4_103,CASA DE CAMPO,,acc_4_103_281,Camino de Campamento s/n,est_4_103
+343,est_4_103,CASA DE CAMPO,,acc_4_103_282,Ascensor,est_4_103
+344,est_4_103,CASA DE CAMPO,,par_4_201,CASA DE CAMPO,est_4_103
+345,est_4_252,ALAMEDA DE OSUNA,,acc_4_252_623,Corbeta,est_4_252
+346,est_4_252,ALAMEDA DE OSUNA,,acc_4_252_624,Ascensor,est_4_252
+347,est_4_253,EL CAPRICHO,,acc_4_253_625,Velero,est_4_253
+348,est_4_253,EL CAPRICHO,,acc_4_253_626,Ascensor,est_4_253
+349,est_4_253,EL CAPRICHO,,acc_4_253_627,Pinos de Osuna,est_4_253
+350,est_4_74,CANILLEJAS,,acc_4_74_1037,Alcalá - Josefa Valcárcel,est_4_74
+351,est_4_74,CANILLEJAS,,acc_4_74_211,Alcalá impares,est_4_74
+352,est_4_74,CANILLEJAS,,acc_4_74_212,Alcalá pares,est_4_74
+353,est_4_75,TORRE ARIAS,,acc_4_75_213,Alcalá impares,est_4_75
+354,est_4_75,TORRE ARIAS,,acc_4_75_214,Alcalá pares,est_4_75
+355,est_4_76,SUANZES,,acc_4_76_215,Alcalá pares,est_4_76
+356,est_4_76,SUANZES,,acc_4_76_216,Alcalá impares,est_4_76
+357,est_4_77,CIUDAD LINEAL,,acc_4_77_217,Hnos. García Noblejas,est_4_77
+358,est_4_77,CIUDAD LINEAL,,acc_4_77_218,Misterios,est_4_77
+359,est_4_77,CIUDAD LINEAL,,acc_4_77_219,Arturo Soria,est_4_77
+360,est_4_77,CIUDAD LINEAL,,acc_4_77_220,Albarracín,est_4_77
+361,est_4_78,PUEBLO NUEVO,,acc_4_78_1028,Ascensor exterior,est_4_78
+362,est_4_78,PUEBLO NUEVO,,acc_4_78_221,Hnos. de Pablo,est_4_78
+363,est_4_78,PUEBLO NUEVO,,acc_4_78_222,Emilio Ferrari,est_4_78
+364,est_4_78,PUEBLO NUEVO,,acc_4_78_223,Doctor Vallejo,est_4_78
+365,est_4_78,PUEBLO NUEVO,,acc_4_78_224,Vicente Espinel,est_4_78
+366,est_4_78,PUEBLO NUEVO,,acc_4_78_225,Campuzano,est_4_78
+367,est_4_78,PUEBLO NUEVO,,par_4_137,PUEBLO NUEVO,est_4_78
+368,est_4_79,QUINTANA,,acc_4_79_226,Hnos. Machado,est_4_79
+369,est_4_79,QUINTANA,,acc_4_79_227,Argentina,est_4_79
+370,est_4_79,QUINTANA,,acc_4_79_228,Ezequiel Solana,est_4_79
+371,est_4_79,QUINTANA,,acc_4_79_229,Virgen del Sagrario,est_4_79
+372,est_4_80,EL CARMEN,,acc_4_80_230,J. Villena,est_4_80
+373,est_4_80,EL CARMEN,,acc_4_80_231,Alcalde López Casero,est_4_80
+374,est_4_80,EL CARMEN,,acc_4_80_232,Hnos. Fdez. Lanseros,est_4_80
+375,est_4_80,EL CARMEN,,acc_4_80_233,Raquel Meyer,est_4_80
+376,est_4_83,NUÑEZ DE BALBOA,,acc_4_83_239,Velázquez,est_4_83
+377,est_4_83,NUÑEZ DE BALBOA,,acc_4_83_240,Núñez de Balboa,est_4_83
+378,est_4_83,NUÑEZ DE BALBOA,,acc_4_83_242,Pza. Marqués de Salamanca,est_4_83
+379,est_4_83,NUÑEZ DE BALBOA,,par_4_171,NUÑEZ DE BALBOA,est_4_83
+380,est_4_84,RUBEN DARIO,,acc_4_84_243,Almagro,est_4_84
+381,est_4_84,RUBEN DARIO,,acc_4_84_244,Miguel Angel,est_4_84
+382,est_4_84,RUBEN DARIO,,acc_4_84_245,Castellana,est_4_84
+383,est_4_86,CHUECA,,acc_4_86_246,Plaza de Chueca,est_4_86
+384,est_4_90,LA LATINA,,acc_4_90_247,San Francisco,est_4_90
+385,est_4_90,LA LATINA,,acc_4_90_248,San Millán,est_4_90
+386,est_4_90,LA LATINA,,acc_4_90_249,Toledo,est_4_90
+387,est_4_91,PUERTA DE TOLEDO,,acc_4_91_250,Puerta de Toledo,est_4_91
+388,est_4_93,PIRAMIDES,,acc_4_93_252,Pº de las Acacias pares,est_4_93
+389,est_4_93,PIRAMIDES,,acc_4_93_253,Pº de las Acacias impares,est_4_93
+390,est_4_93,PIRAMIDES,,acc_4_93_255,Acceso RENFE,est_4_93
+391,est_4_93,PIRAMIDES,,acc_4_93_256,Ascensor exterior RENFE,est_4_93
+392,est_4_94,MARQUES DE VADILLO,,acc_4_94_257,Antonio Leyva,est_4_94
+393,est_4_94,MARQUES DE VADILLO,,acc_4_94_258,Avda. Emperatriz Isabel,est_4_94
+394,est_4_95,URGEL,,acc_4_95_259,Toboso,est_4_95
+395,est_4_95,URGEL,,acc_4_95_260,San Patricio,est_4_95
+396,est_4_95,URGEL,,acc_4_95_261,Camino Viejo de Leganés,est_4_95
+397,est_4_95,URGEL,,acc_4_95_262,Peñafiel,est_4_95
+398,est_4_96,OPORTO,,acc_4_96_263,Valle de Oro,est_4_96
+399,est_4_96,OPORTO,,acc_4_96_264,Oca,est_4_96
+400,est_4_96,OPORTO,,acc_4_96_265,General Ricardos pares,est_4_96
+401,est_4_96,OPORTO,,acc_4_96_266,General Ricardos impares,est_4_96
+402,est_4_96,OPORTO,,par_4_106,OPORTO,est_4_96
+403,est_4_97,VISTA ALEGRE,,acc_4_97_267,Pinzón,est_4_97
+404,est_4_97,VISTA ALEGRE,,acc_4_97_268,Oca,est_4_97
+405,est_4_98,CARABANCHEL,,acc_4_98_269,Glorieta del Ejército,est_4_98
+406,est_4_99,EUGENIA DE MONTIJO,,acc_4_99_270,Ntra. Sra. de la Luz,est_4_99
+407,est_90_13,Méndez Álvaro Estación Sur,,par_4_111,MENDEZ ALVARO,est_90_13
+408,est_90_13,Méndez Álvaro Estación Sur,,acc_4_111_296,Méndez Alvaro impares,est_90_13
+409,est_90_13,Méndez Álvaro Estación Sur,,acc_4_111_297,Méndez Alvaro pares,est_90_13
+410,est_90_13,Méndez Álvaro Estación Sur,,acc_4_111_299,Pedro Bosch,est_90_13
+411,est_90_13,Méndez Álvaro Estación Sur,,acc_4_111_595,Retama,est_90_13
+412,est_90_13,Méndez Álvaro Estación Sur,,acc_4_111_596,Ascensor exterior intercambiador,est_90_13
+413,est_90_18,Intercambiador de Príncipe Pío,,par_4_127,PRINCIPE PIO,est_90_18
+414,est_90_18,Intercambiador de Príncipe Pío,,acc_4_127_1052,Ascensor,est_90_18
+415,est_90_18,Intercambiador de Príncipe Pío,,acc_4_127_333,Correspondencia RENFE,est_90_18
+416,est_90_18,Intercambiador de Príncipe Pío,,acc_4_127_334,Intercambiador,est_90_18
+417,est_90_18,Intercambiador de Príncipe Pío,,acc_4_127_336,Correspondencia RENFE,est_90_18
+418,est_90_18,Intercambiador de Príncipe Pío,,acc_4_127_610,Arcadas,est_90_18
+419,est_90_18,Intercambiador de Príncipe Pío,,acc_4_127_612,Centro Comercial,est_90_18
+420,est_90_18,Intercambiador de Príncipe Pío,,acc_4_127_613,Ascensor,est_90_18
+421,est_90_18,Intercambiador de Príncipe Pío,,acc_4_127_614,Centro Comercial,est_90_18
+422,est_90_18,Intercambiador de Príncipe Pío,,par_4_198,PRINCIPE PIO,est_90_18
+423,est_90_18,Intercambiador de Príncipe Pío,,par_4_238,PRINCIPE PIO,est_90_18
+424,est_90_36,Intercambiador de Plaza Elíptica,,par_4_108,PLAZA ELIPTICA,est_90_36
+425,est_90_36,Intercambiador de Plaza Elíptica,,acc_4_108_289,Avda. Oporto pares,est_90_36
+426,est_90_36,Intercambiador de Plaza Elíptica,,acc_4_108_290,Pza. Fernández Ladreda,est_90_36
+427,est_90_36,Intercambiador de Plaza Elíptica,,acc_4_108_291,Ascensor,est_90_36
+428,est_90_36,Intercambiador de Plaza Elíptica,,acc_4_108_292,Marcelo Usera pares,est_90_36
+429,est_90_36,Intercambiador de Plaza Elíptica,,acc_4_108_293,Marcelo Usera impares,est_90_36
+430,est_90_36,Intercambiador de Plaza Elíptica,,acc_4_108_800,Acceso intercambiador,est_90_36
+431,est_90_36,Intercambiador de Plaza Elíptica,,par_4_206,PLAZA ELIPTICA,est_90_36
+432,est_90_71,Nuevos Ministerios,,par_4_120,NUEVOS MINISTERIOS,est_90_71
+433,est_90_71,Nuevos Ministerios,,acc_4_120_317,Orense,est_90_71
+434,est_90_71,Nuevos Ministerios,,acc_4_120_318,Agustín de Bethancourt,est_90_71
+435,est_90_71,Nuevos Ministerios,,acc_4_120_319,Centro Comercial,est_90_71
+436,est_90_71,Nuevos Ministerios,,acc_4_120_320,Edificio acceso RENFE - Arcadas Nuevos Ministerios,est_90_71
+437,est_90_71,Nuevos Ministerios,,acc_4_120_321,Ascensor nº1,est_90_71
+438,est_90_71,Nuevos Ministerios,,acc_4_120_322,Ascensor nº2,est_90_71
+439,est_90_71,Nuevos Ministerios,,acc_4_120_395,Pº de la Castellana impares,est_90_71
+440,est_90_71,Nuevos Ministerios,,acc_4_120_396,Pº de la Castellana pares,est_90_71
+441,est_90_71,Nuevos Ministerios,,acc_4_120_397,Pº de la Castellana impares (Bulevar),est_90_71
+442,est_90_71,Nuevos Ministerios,,acc_4_120_398,Pº de la Castellana pares (Facturacion),est_90_71
+443,est_90_71,Nuevos Ministerios,,acc_4_120_399,Edificio acceso RENFE - Arcadas Nuevos Ministerios,est_90_71
+444,est_90_71,Nuevos Ministerios,,acc_4_120_403,Edificio acceso RENFE - Raimundo Fernandez Villaverde,est_90_71
+445,est_90_71,Nuevos Ministerios,,acc_4_120_404,Ascensor nº5,est_90_71
+446,est_90_71,Nuevos Ministerios,,acc_4_120_405,Ascensor nº6,est_90_71
+447,est_90_71,Nuevos Ministerios,,acc_4_120_406,Ascensor exterior RENFE - Arcadas,est_90_71
+448,est_90_71,Nuevos Ministerios,,acc_4_120_603,Ascensor exterior RENFE - Arcadas,est_90_71
+449,est_90_71,Nuevos Ministerios,,acc_4_120_605,Edificio acceso RENFE - Raimundo Fernandez Villaverde,est_90_71
+450,est_90_71,Nuevos Ministerios,,acc_4_120_606,Ascensor exterior RENFE 1 - Raimundo Fernandez Villaverde,est_90_71
+451,est_90_71,Nuevos Ministerios,,acc_4_120_607,Ascensor exterior RENFE 2 - Raimundo Fernandez Villaverde,est_90_71
+452,est_90_71,Nuevos Ministerios,,acc_4_120_608,Ascensor exterior RENFE 1 - Raimundo Fernandez Villaverde,est_90_71
+453,est_90_71,Nuevos Ministerios,,acc_4_120_609,Ascensor exterior RENFE 2 - Raimundo Fernandez Villaverde,est_90_71
+454,est_90_71,Nuevos Ministerios,,par_4_155,NUEVOS MINISTERIOS,est_90_71
+455,est_90_71,Nuevos Ministerios,,par_4_193,NUEVOS MINISTERIOS,est_90_71
+456,est_4_104,LAGUNA,,acc_4_104_1029,Ascensor nº1,est_4_104
+457,est_4_104,LAGUNA,,acc_4_104_1030,Ascensor nº2,est_4_104
+458,est_4_104,LAGUNA,,acc_4_104_1031,Ascensor nº3,est_4_104
+459,est_4_104,LAGUNA,,acc_4_104_284,Alhambra pares,est_4_104
+460,est_4_104,LAGUNA,,acc_4_104_285,Alhambra impares,est_4_104
+461,est_4_105,CARPETANA,,acc_4_105_1033,Ascensor exterior nº1,est_4_105
+462,est_4_105,CARPETANA,,acc_4_105_1035,Nuestra Señora de Valvanera - via Carpetana - Ateca,est_4_105
+463,est_4_105,CARPETANA,,acc_4_105_1036,Ascensor exterior nº2,est_4_105
+464,est_4_105,CARPETANA,,acc_4_105_286,Vía Carpetana,est_4_105
+465,est_4_107,OPAÑEL,,acc_4_107_287,Portalegre pares,est_4_107
+466,est_4_107,OPAÑEL,,acc_4_107_288,Portalegre impares,est_4_107
+467,est_4_109,USERA,,acc_4_109_294,Amparo Usera,est_4_109
+468,est_4_109,USERA,,acc_4_109_295,Mirasierra,est_4_109
+469,est_4_109,USERA,,acc_4_109_806,Ascensor exterior,est_4_109
+470,est_4_113,CONDE DE CASAL,,acc_4_113_301,Doctor Esquerdo,est_4_113
+471,est_4_113,CONDE DE CASAL,,acc_4_113_302,Conde de Casal,est_4_113
+472,est_4_113,CONDE DE CASAL,,acc_4_113_303,Doctor Esquerdo impares,est_4_113
+473,est_4_113,CONDE DE CASAL,,acc_4_113_304,Doctor Esquerdo pares,est_4_113
+474,est_4_113,CONDE DE CASAL,,acc_4_113_801,Ascensor,est_4_113
+475,est_4_114,SAINZ DE BARANDA,,acc_4_114_1038,Ascensor exterior 1,est_4_114
+476,est_4_114,SAINZ DE BARANDA,,acc_4_114_1039,Ascensor exterior 2,est_4_114
+477,est_4_114,SAINZ DE BARANDA,,acc_4_114_305,Sainz de Baranda,est_4_114
+478,est_4_114,SAINZ DE BARANDA,,acc_4_114_306,José Martínez de Velasco,est_4_114
+479,est_4_114,SAINZ DE BARANDA,,acc_4_114_307,Moneda impares,est_4_114
+480,est_4_114,SAINZ DE BARANDA,,acc_4_114_308,Moneda pares,est_4_114
+481,est_4_114,SAINZ DE BARANDA,,par_4_174,SAINZ DE BARANDA,est_4_114
+482,est_4_115,ODONNELL,,acc_4_115_309,O´Donnell,est_4_115
+483,est_4_115,ODONNELL,,acc_4_115_310,Casa de la Moneda,est_4_115
+484,est_4_115,ODONNELL,,acc_4_115_311,J. Juan / Dr. Esquerdo pares,est_4_115
+485,est_4_115,ODONNELL,,acc_4_115_312,J. Juan / Dr. Esquerdo impares,est_4_115
+486,est_4_119,REPUBLICA ARGENTINA,,acc_4_119_313,República Argentina,est_4_119
+487,est_4_119,REPUBLICA ARGENTINA,,acc_4_119_314,Joaquín Costa impares,est_4_119
+488,est_4_119,REPUBLICA ARGENTINA,,acc_4_119_315,Joaquín Costa pares,est_4_119
+489,est_4_119,REPUBLICA ARGENTINA,,acc_4_119_316,Joaquín Costa pares,est_4_119
+490,est_4_122,GUZMAN EL BUENO,,acc_4_122_323,General Rodrigo,est_4_122
+491,est_4_122,GUZMAN EL BUENO,,acc_4_122_324,Reina Victoria impares - G. el Bueno,est_4_122
+492,est_4_122,GUZMAN EL BUENO,,acc_4_122_325,Ascensor,est_4_122
+493,est_4_122,GUZMAN EL BUENO,,acc_4_122_326,Los Vascos,est_4_122
+494,est_4_122,GUZMAN EL BUENO,,acc_4_122_327,Reina Victoria pares,est_4_122
+495,est_4_122,GUZMAN EL BUENO,,par_4_146,GUZMAN EL BUENO,est_4_122
+496,est_4_123,VICENTE ALEIXANDRE,,acc_4_123_328,Gregorio del Amo,est_4_123
+497,est_4_123,VICENTE ALEIXANDRE,,acc_4_123_329,Juan XXIII,est_4_123
+498,est_4_124,CIUDAD UNIVERSITARIA,,acc_4_124_330,Facultades,est_4_124
+499,est_4_124,CIUDAD UNIVERSITARIA,,acc_4_124_331,Avda. Complutense,est_4_124
+500,est_4_124,CIUDAD UNIVERSITARIA,,acc_4_124_332,Ascensor,est_4_124
+501,est_4_128,PUERTA DEL ANGEL,,acc_4_128_339,Plaza Santa Cristina,est_4_128
+502,est_4_128,PUERTA DEL ANGEL,,acc_4_128_340,Caramuel,est_4_128
+503,est_4_129,ALTO DE EXTREMADURA,,acc_4_129_341,Pza. Alto de Extremadura,est_4_129
+504,est_4_129,ALTO DE EXTREMADURA,,acc_4_129_342,Francisco Brizuela,est_4_129
+505,est_4_130,LUCERO,,acc_4_130_343,Cebreros,est_4_130
+506,est_4_130,LUCERO,,acc_4_130_344,Higueras,est_4_130
+507,est_4_130,LUCERO,,acc_4_130_345,Ascensor,est_4_130
+508,est_4_259,ARGANZUELA-PLANETARIO,,acc_4_259_639,Bronce,est_4_259
+509,est_4_132,LAS MUSAS,,acc_4_132_346,Avda. de Niza impares,est_4_132
+510,est_4_132,LAS MUSAS,,acc_4_132_802,Avda. de Niza pares,est_4_132
+511,est_4_133,SAN BLAS,,acc_4_133_347,Pobladura del Valle pares,est_4_133
+512,est_4_133,SAN BLAS,,acc_4_133_348,Pobladura del Valle impares,est_4_133
+513,est_4_134,SIMANCAS,,acc_4_134_349,Amposta,est_4_134
+514,est_4_134,SIMANCAS,,acc_4_134_350,Castillo de Uclés,est_4_134
+515,est_4_134,SIMANCAS,,acc_4_134_351,Zaratán,est_4_134
+516,est_4_135,GARCIA NOBLEJAS,,acc_4_135_352,Hermanos García Noblejas,est_4_135
+517,est_4_135,GARCIA NOBLEJAS,,acc_4_135_353,José Arcones Gil,est_4_135
+518,est_4_136,ASCAO,,acc_4_136_354,Ascao,est_4_136
+519,est_4_138,BARRIO DE LA CONCEPCION,,acc_4_138_1092,Ascensor,est_4_138
+520,est_4_138,BARRIO DE LA CONCEPCION,,acc_4_138_355,Martínez Villergas,est_4_138
+521,est_4_138,BARRIO DE LA CONCEPCION,,acc_4_138_356,Virgen del Romero,est_4_138
+522,est_4_139,PARQUE DE LAS AVENIDAS,,acc_4_139_357,Avda. de Bruselas impares,est_4_139
+523,est_4_139,PARQUE DE LAS AVENIDAS,,acc_4_139_358,Avda. de Bruselas pares,est_4_139
+524,est_4_140,CARTAGENA,,acc_4_140_359,Avda. de América pares,est_4_140
+525,est_4_140,CARTAGENA,,acc_4_140_360,Avda. de América impares,est_4_140
+526,est_4_142,GREGORIO MARAÑON,,acc_4_142_361,Miguel Angel,est_4_142
+527,est_4_142,GREGORIO MARAÑON,,acc_4_142_362,José Abascal,est_4_142
+528,est_4_142,GREGORIO MARAÑON,,acc_4_142_363,Ascensor,est_4_142
+529,est_4_142,GREGORIO MARAÑON,,par_4_194,GREGORIO MARAÑON,est_4_142
+530,est_4_143,ALONSO CANO,,acc_4_143_364,José Abascal - Alonso Cano,est_4_143
+531,est_4_143,ALONSO CANO,,acc_4_143_365,José Abascal - Ponzano,est_4_143
+532,est_4_143,ALONSO CANO,,acc_4_143_366,Ascensor,est_4_143
+533,est_4_145,ISLAS FILIPINAS,,acc_4_145_367,Cea Bermúdez pares - Gaztambide,est_4_145
+534,est_4_145,ISLAS FILIPINAS,,acc_4_145_368,Cea Bermúdez impares - Gaztambide,est_4_145
+535,est_4_145,ISLAS FILIPINAS,,acc_4_145_369,Ascensor,est_4_145
+536,est_4_145,ISLAS FILIPINAS,,acc_4_145_370,Cea Bermúdez pares - Guzmán el Bueno,est_4_145
+537,est_4_145,ISLAS FILIPINAS,,acc_4_145_371,Cea Bermúdez impares - Guzmán el Bueno,est_4_145
+538,est_4_147,FRANCOS RODRIGUEZ,,acc_4_147_372,Moguer,est_4_147
+539,est_4_147,FRANCOS RODRIGUEZ,,acc_4_147_373,Alejandro Rodríguez,est_4_147
+540,est_4_147,FRANCOS RODRIGUEZ,,acc_4_147_374,Pablo Iglesias impares - Francos Rodriguez,est_4_147
+541,est_4_147,FRANCOS RODRIGUEZ,,acc_4_147_375,Pablo Iglesias pares - Francos Rodriguez,est_4_147
+542,est_4_147,FRANCOS RODRIGUEZ,,acc_4_147_376,Ascensor,est_4_147
+543,est_4_148,VALDEZARZA,,acc_4_148_377,San Restituto,est_4_148
+544,est_4_148,VALDEZARZA,,acc_4_148_378,Ascensor,est_4_148
+545,est_4_148,VALDEZARZA,,acc_4_148_379,Emerenciana Zurilla,est_4_148
+546,est_4_148,VALDEZARZA,,acc_4_148_380,Armenteros,est_4_148
+547,est_4_149,ANTONIO MACHADO,,acc_4_149_381,Valderrodrigo - Valdesangil,est_4_149
+548,est_4_149,ANTONIO MACHADO,,acc_4_149_382,Valderrodrigo,est_4_149
+549,est_4_149,ANTONIO MACHADO,,acc_4_149_383,Ascensor,est_4_149
+550,est_4_150,PEÑAGRANDE,,acc_4_150_384,Vereda de Ganapanes impares,est_4_150
+551,est_4_150,PEÑAGRANDE,,acc_4_150_385,Vereda de Ganapanes pares,est_4_150
+552,est_4_150,PEÑAGRANDE,,acc_4_150_386,Ascensor,est_4_150
+553,est_4_151,AVDA. DE LA ILUSTRACION,,acc_4_151_387,Islas Cíes,est_4_151
+554,est_4_151,AVDA. DE LA ILUSTRACION,,acc_4_151_388,Ascensor,est_4_151
+555,est_4_152,LACOMA,,acc_4_152_389,Ramón Gómez de la Serna,est_4_152
+556,est_4_152,LACOMA,,acc_4_152_390,Riscos de Polanco,est_4_152
+557,est_4_152,LACOMA,,acc_4_152_391,Ascensor,est_4_152
+558,est_4_154,PITIS,,acc_4_154_392,Camino de Peñagrande,est_4_154
+559,est_4_154,PITIS,,acc_4_154_394,Ascensor,est_4_154
+560,est_4_286,ESTADIO METROPOLITANO,,acc_4_286_710,Estadio Metropolitano,est_4_286
+561,est_4_286,ESTADIO METROPOLITANO,,acc_4_286_711,Estocolmo,est_4_286
+562,est_4_286,ESTADIO METROPOLITANO,,acc_4_286_712,Ascensor,est_4_286
+563,est_4_287,BARRIO DEL PUERTO,,acc_4_287_708,Avda. España,est_4_287
+564,est_4_287,BARRIO DEL PUERTO,,acc_4_287_709,Ascensor,est_4_287
+565,est_4_288,COSLADA CENTRAL,,acc_4_288_703,Doctor Fleming,est_4_288
+566,est_4_288,COSLADA CENTRAL,,acc_4_288_704,Correspondencia RENFE,est_4_288
+567,est_4_288,COSLADA CENTRAL,,acc_4_288_706,Ascensor RENFE,est_4_288
+568,est_4_288,COSLADA CENTRAL,,acc_4_288_707,Ascensor,est_4_288
+569,est_4_289,LA RAMBLA,,acc_4_289_701,Honduras,est_4_289
+570,est_4_289,LA RAMBLA,,acc_4_289_702,Ascensor,est_4_289
+571,est_4_290,SAN FERNANDO,,acc_4_290_699,Gonzalo de Córdoba,est_4_290
+572,est_4_290,SAN FERNANDO,,acc_4_290_700,Ascensor,est_4_290
+573,est_4_291,JARAMA,,acc_4_291_697,Plaza de Guernica,est_4_291
+574,est_4_291,JARAMA,,acc_4_291_698,Ascensor,est_4_291
+575,est_4_292,HENARES,,acc_4_292_695,Algorta,est_4_292
+576,est_4_292,HENARES,,acc_4_292_696,Ascensor,est_4_292
+577,est_4_296,HOSPITAL DEL HENARES,,acc_4_296_761,Hospital del Henares,est_4_296
+578,est_4_296,HOSPITAL DEL HENARES,,acc_4_296_762,Ascensor exterior,est_4_296
+579,est_90_33,Aeropuerto T4,,par_4_285,AEROPUERTO T4,est_90_33
+580,est_90_33,Aeropuerto T4,,acc_4_285_694,Terminal T4,est_90_33
+581,est_90_34,Aeropuerto T1 - T2 - T3,,par_4_159,AEROPUERTO T1 T2 T3,est_90_34
+582,est_90_34,Aeropuerto T1 - T2 - T3,,acc_4_159_418,Terminales 123,est_90_34
+583,est_90_34,Aeropuerto T1 - T2 - T3,,acc_4_159_419,Ascensor,est_90_34
+584,est_90_34,Aeropuerto T1 - T2 - T3,,acc_4_159_420,Ascensor,est_90_34
+585,est_4_156,COLOMBIA,,acc_4_156_409,Príncipe de Vergara impares - Colombia,est_4_156
+586,est_4_156,COLOMBIA,,acc_4_156_410,Príncipe de Vergara pares - Colombia,est_4_156
+587,est_4_156,COLOMBIA,,acc_4_156_411,Príncipe de Vergara impares - Pza. Rep. Dominicana,est_4_156
+588,est_4_156,COLOMBIA,,acc_4_156_412,Príncipe de Vergara pares - Pza. Rep. Dominicana,est_4_156
+589,est_4_156,COLOMBIA,,acc_4_156_413,Ascensor,est_4_156
+590,est_4_156,COLOMBIA,,par_4_167,COLOMBIA,est_4_156
+591,est_4_158,FERIA DE MADRID,,acc_4_158_414,Avda. Capital de España-Madrid,est_4_158
+592,est_4_158,FERIA DE MADRID,,acc_4_158_415,Feria de Madrid pabellones impares,est_4_158
+593,est_4_158,FERIA DE MADRID,,acc_4_158_416,Feria de Madrid pabellones pares,est_4_158
+594,est_4_158,FERIA DE MADRID,,acc_4_158_417,Ascensor,est_4_158
+595,est_4_160,BARAJAS,,acc_4_160_421,Avda. Logroño,est_4_160
+596,est_4_160,BARAJAS,,acc_4_160_422,Ascensor,est_4_160
+597,est_4_258,PINAR DEL REY,,acc_4_258_637,Gran Vía de Hortaleza,est_4_258
+598,est_4_258,PINAR DEL REY,,acc_4_258_638,Ascensor,est_4_258
+599,est_4_161,HERRERA ORIA,,acc_4_161_423,Ginzo de Limia,est_4_161
+600,est_4_161,HERRERA ORIA,,acc_4_161_424,Cardenal Herrera Oria,est_4_161
+601,est_4_162,BARRIO DEL PILAR,,acc_4_162_425,Ginzo de Limia impares,est_4_162
+602,est_4_162,BARRIO DEL PILAR,,acc_4_162_426,Ginzo de Limia pares,est_4_162
+603,est_4_162,BARRIO DEL PILAR,,acc_4_162_427,Melchor Fernández Almagro,est_4_162
+604,est_4_162,BARRIO DEL PILAR,,acc_4_162_428,Ginzo de Limia pares,est_4_162
+605,est_4_163,VENTILLA,,acc_4_163_429,Avda. Asturias impares,est_4_163
+606,est_4_163,VENTILLA,,acc_4_163_430,Avda. Asturias pares,est_4_163
+607,est_4_165,DUQUE DE PASTRANA,,acc_4_165_431,Mateo Inurria,est_4_165
+608,est_4_166,PIO XII,,acc_4_166_432,Avda. de Pío XII,est_4_166
+609,est_4_166,PIO XII,,acc_4_166_433,Avda. de Pío XII,est_4_166
+610,est_4_168,CONCHA ESPINA,,acc_4_168_434,Plaza de Cataluña,est_4_168
+611,est_4_168,CONCHA ESPINA,,acc_4_168_435,Príncipe de Vergara,est_4_168
+612,est_4_169,CRUZ DEL RAYO,,acc_4_169_436,Príncipe de Vergara pares,est_4_169
+613,est_4_169,CRUZ DEL RAYO,,acc_4_169_437,Príncipe de Vergara impares,est_4_169
+614,est_4_169,CRUZ DEL RAYO,,acc_4_169_438,Príncipe de Vergara impares,est_4_169
+615,est_4_169,CRUZ DEL RAYO,,acc_4_169_439,Príncipe de Vergara pares,est_4_169
+616,est_4_173,IBIZA,,acc_4_173_440,Ibiza,est_4_173
+617,est_4_175,ESTRELLA,,acc_4_175_441,Camino de los Vinateros impares,est_4_175
+618,est_4_175,ESTRELLA,,acc_4_175_442,Camino de los Vinateros pares,est_4_175
+619,est_4_175,ESTRELLA,,acc_4_175_443,Estrella Polar,est_4_175
+620,est_4_176,VINATEROS,,acc_4_176_444,Vinateros impares,est_4_176
+621,est_4_176,VINATEROS,,acc_4_176_445,Corregidor José de Pasamonte,est_4_176
+622,est_4_176,VINATEROS,,acc_4_176_446,Vinateros pares,est_4_176
+623,est_4_176,VINATEROS,,acc_4_176_447,Arroyo Belincoso,est_4_176
+624,est_4_177,ARTILLEROS,,acc_4_177_448,Vinateros impares,est_4_177
+625,est_4_177,ARTILLEROS,,acc_4_177_449,Vinateros pares,est_4_177
+626,est_4_177,ARTILLEROS,,acc_4_177_450,Vinateros,est_4_177
+627,est_4_177,ARTILLEROS,,acc_4_177_451,Pico de Artilleros,est_4_177
+628,est_4_178,PAVONES,,acc_4_178_1095,Ascensor,est_4_178
+629,est_4_178,PAVONES,,acc_4_178_452,Hacienda de Pavones impares,est_4_178
+630,est_4_178,PAVONES,,acc_4_178_803,Terminal Autobuses,est_4_178
+631,est_4_179,VALDEBERNARDO,,acc_4_179_454,Bulevar Indalecio Prieto - Raya,est_4_179
+632,est_4_179,VALDEBERNARDO,,acc_4_179_455,Ascensor,est_4_179
+633,est_4_179,VALDEBERNARDO,,acc_4_179_456,Bulevar Indalecio Prieto - Los Pinilla,est_4_179
+634,est_4_180,VICÁLVARO,,acc_4_180_457,Pº Artilleros impares,est_4_180
+635,est_4_180,VICÁLVARO,,acc_4_180_458,Pº Artilleros pares,est_4_180
+636,est_4_180,VICÁLVARO,,acc_4_180_459,Ascensor,est_4_180
+637,est_4_181,SAN CIPRIANO,,acc_4_181_460,San Cipriano pares,est_4_181
+638,est_4_181,SAN CIPRIANO,,acc_4_181_461,San Cipriano impares,est_4_181
+639,est_4_181,SAN CIPRIANO,,acc_4_181_462,Ascensor,est_4_181
+640,est_4_182,PUERTA DE ARGANDA,,acc_4_182_463,Terminal de Autobuses,est_4_182
+641,est_4_182,PUERTA DE ARGANDA,,acc_4_182_464,Terminal Autobús - RENFE,est_4_182
+642,est_4_182,PUERTA DE ARGANDA,,acc_4_182_465,Ascensor no acceso independiente,est_4_182
+643,est_4_183,RIVAS URBANIZACIONES,,acc_4_183_467,Pº Ferrocarril,est_4_183
+644,est_4_184,RIVAS VACIAMADRID,,acc_4_184_468,Wenceslao Garcia,est_4_184
+645,est_4_185,LA POVEDA,,acc_4_185_469,Ctra. Campo Real,est_4_185
+646,est_4_186,ARGANDA DEL REY,,acc_4_186_470,Pº de la Estación,est_4_186
+647,est_4_300,RIVAS FUTURA,,acc_4_300_815,Concepción Arenal,est_4_300
+648,est_4_300,RIVAS FUTURA,,acc_4_300_816,Marie Curie,est_4_300
+649,est_4_300,RIVAS FUTURA,,acc_4_300_817,Ascensor exterior,est_4_300
+650,est_4_326,MIRASIERRA,,acc_4_326_1068,Mirasierra,est_4_326
+651,est_4_326,MIRASIERRA,,acc_4_326_1069,Ascensor Exterior,est_4_326
+652,est_4_345,PACO DE LUCIA,,acc_4_345_1075,Costa Brava,est_4_345
+653,est_4_345,PACO DE LUCIA,,acc_4_345_1076,Ascensor Exterior,est_4_345
+654,est_4_187,FUENCARRAL,,acc_4_187_471,Barrio Sta. Ana,est_4_187
+655,est_4_188,BEGOÑA,,acc_4_188_472,Cdad. Sanitaria La Paz,est_4_188
+656,est_4_188,BEGOÑA,,acc_4_188_473,San Modesto,est_4_188
+657,est_4_191,CUZCO,,acc_4_191_475,Paseo Castellana impares,est_4_191
+658,est_4_191,CUZCO,,acc_4_191_476,Paseo Castellana pares,est_4_191
+659,est_4_192,SANTIAGO BERNABEU,,acc_4_192_477,Plaza de Lima,est_4_192
+660,est_4_192,SANTIAGO BERNABEU,,acc_4_192_478,Paseo Castellana pares,est_4_192
+661,est_4_192,SANTIAGO BERNABEU,,acc_4_192_479,Paseo Castellana impares,est_4_192
+662,est_4_192,SANTIAGO BERNABEU,,acc_4_192_480,Paseo Castellana pares,est_4_192
+663,est_4_199,LAGO,,acc_4_199_481,El Lago,est_4_199
+664,est_4_200,BATAN,,acc_4_200_482,Villamanín,est_4_200
+665,est_4_200,BATAN,,acc_4_200_483,Venta del Batán,est_4_200
+666,est_4_202,COLONIA JARDIN,,acc_4_202_484,Sedano,est_4_202
+667,est_4_202,COLONIA JARDIN,,acc_4_202_485,Crta. Carabanchel - Aravaca,est_4_202
+668,est_4_202,COLONIA JARDIN,,acc_4_202_486,Ascensor,est_4_202
+669,est_4_203,CUATRO VIENTOS,,acc_4_203_487,Pº de Extremadura,est_4_203
+670,est_4_203,CUATRO VIENTOS,,acc_4_203_488,Pº de los Húsares,est_4_203
+671,est_4_203,CUATRO VIENTOS,,acc_4_203_489,Ascensor nº2,est_4_203
+672,est_4_203,CUATRO VIENTOS,,acc_4_203_490,Ascensor nº1,est_4_203
+673,est_4_204,JOAQUIN VILUMBRALES,,acc_4_204_491,Avenida de la Libertad pares,est_4_204
+674,est_4_204,JOAQUIN VILUMBRALES,,acc_4_204_492,Avenida de la Libertad impares,est_4_204
+675,est_4_204,JOAQUIN VILUMBRALES,,acc_4_204_493,Ascensor,est_4_204
+676,est_4_205,PUERTA DEL SUR,,acc_4_205_494,Avenida de la Libertad pares,est_4_205
+677,est_4_205,PUERTA DEL SUR,,acc_4_205_495,Avenida de la Libertad impares,est_4_205
+678,est_4_205,PUERTA DEL SUR,,acc_4_205_496,Ascensor,est_4_205
+679,est_4_205,PUERTA DEL SUR,,acc_4_205_497,Olímpico Francisco Fernández Ochoa,est_4_205
+680,est_4_205,PUERTA DEL SUR,,par_4_209,PUERTA DEL SUR,est_4_205
+681,est_4_257,AVIACION ESPAÑOLA,,acc_4_257_635,Fuente de Lima,est_4_257
+682,est_4_257,AVIACION ESPAÑOLA,,acc_4_257_636,Ascensor,est_4_257
+683,est_4_274,TRES OLIVOS,,acc_4_274_693,Retablo de Melisendra,est_4_274
+684,est_4_275,MONTECARMELO,,acc_4_275_691,Avda. Monasterio de Silos,est_4_275
+685,est_4_275,MONTECARMELO,,acc_4_275_692,Ascensor,est_4_275
+686,est_4_276,LAS TABLAS,,acc_4_276_689,Palas de Rey,est_4_276
+687,est_4_276,LAS TABLAS,,acc_4_276_690,Ascensor,est_4_276
+688,est_4_277,RONDA DE LA COMUNICACION,,acc_4_277_687,Maestro Mateo,est_4_277
+689,est_4_277,RONDA DE LA COMUNICACION,,acc_4_277_688,Ascensor,est_4_277
+690,est_4_278,LA GRANJA,,acc_4_278_685,La Granja,est_4_278
+691,est_4_278,LA GRANJA,,acc_4_278_686,Ascensor,est_4_278
+692,est_4_279,LA MORALEJA,,acc_4_279_683,Avda. Bruselas,est_4_279
+693,est_4_279,LA MORALEJA,,acc_4_279_684,Ascensor,est_4_279
+694,est_4_280,MARQUES DE LA VALDAVIA,,acc_4_280_680,Marqués de la Valdavia,est_4_280
+695,est_4_280,MARQUES DE LA VALDAVIA,,acc_4_280_681,Ascensor,est_4_280
+696,est_4_281,MANUEL DE FALLA,,acc_4_281_678,Manuel de Falla,est_4_281
+697,est_4_281,MANUEL DE FALLA,,acc_4_281_679,Ascensor,est_4_281
+698,est_4_282,BAUNATAL,,acc_4_282_676,Avda. Lomas del Rey,est_4_282
+699,est_4_282,BAUNATAL,,acc_4_282_677,Ascensor,est_4_282
+700,est_4_283,REYES CATOLICOS,,acc_4_283_674,Avda. Plaza de Toros,est_4_283
+701,est_4_283,REYES CATOLICOS,,acc_4_283_675,Ascensor,est_4_283
+702,est_4_284,HOSPITAL INFANTA SOFIA,,acc_4_284_671,Poeta Rafael Morales,est_4_284
+703,est_4_284,HOSPITAL INFANTA SOFIA,,acc_4_284_672,Hospital Infanta Sofía,est_4_284
+704,est_4_284,HOSPITAL INFANTA SOFIA,,acc_4_284_673,Ascensor,est_4_284
+705,est_4_207,ABRANTES,,acc_4_207_498,Avda. de Abrantes impares,est_4_207
+706,est_4_207,ABRANTES,,acc_4_207_499,Avda. de Abrantes pares,est_4_207
+707,est_4_207,ABRANTES,,acc_4_207_500,Ascensor,est_4_207
+708,est_4_208,PAN BENDITO,,acc_4_208_501,Avda. de Abrantes pares - Besolla,est_4_208
+709,est_4_208,PAN BENDITO,,acc_4_208_502,Avda. de Abrantes impares - Besolla,est_4_208
+710,est_4_208,PAN BENDITO,,acc_4_208_503,Ascensor,est_4_208
+711,est_4_254,SAN FRANCISCO,,acc_4_254_628,Avda. Los Poblados impares,est_4_254
+712,est_4_254,SAN FRANCISCO,,acc_4_254_629,Avda. Los Poblados pares,est_4_254
+713,est_4_254,SAN FRANCISCO,,acc_4_254_630,Ascensor,est_4_254
+714,est_4_255,CARABANCHEL ALTO,,acc_4_255_631,Avda. Carabanchel Alto,est_4_255
+715,est_4_255,CARABANCHEL ALTO,,acc_4_255_632,Ascensor,est_4_255
+716,est_4_256,LA PESETA,,acc_4_256_633,Avda. La Peseta,est_4_256
+717,est_4_256,LA PESETA,,acc_4_256_634,Ascensor,est_4_256
+718,est_4_305,LA FORTUNA,,acc_4_305_1045,San José,est_4_305
+719,est_4_305,LA FORTUNA,,acc_4_305_1046,Ascensor Exterior,est_4_305
+720,est_4_210,PARQUE LISBOA,,acc_4_210_504,Avda. de Leganés,est_4_210
+721,est_4_210,PARQUE LISBOA,,acc_4_210_505,Ascensor,est_4_210
+722,est_4_211,ALCORCON CENTRAL,,acc_4_211_506,Avda. Móstoles-Navalcarnero,est_4_211
+723,est_4_211,ALCORCON CENTRAL,,acc_4_211_507,Avda. Móstoles-Bailén,est_4_211
+724,est_4_211,ALCORCON CENTRAL,,acc_4_211_508,Ascensor exterior,est_4_211
+725,est_4_211,ALCORCON CENTRAL,,acc_4_211_509,Avda. Móstoles,est_4_211
+726,est_4_211,ALCORCON CENTRAL,,acc_4_211_582,C/ Berlín Hospital,est_4_211
+727,est_4_211,ALCORCON CENTRAL,,acc_4_211_583,C/ Berlín por 2º vestíbulo renfe,est_4_211
+728,est_4_211,ALCORCON CENTRAL,,acc_4_211_584,Ascensor exterior RENFE,est_4_211
+729,est_4_212,PARQUE OESTE,,acc_4_212_510,Estambul,est_4_212
+730,est_4_212,PARQUE OESTE,,acc_4_212_511,Ascensor,est_4_212
+731,est_4_213,UNIVERSIDAD REY JUAN CARLOS,,acc_4_213_512,Avda. Alcalde de Móstoles,est_4_213
+732,est_4_213,UNIVERSIDAD REY JUAN CARLOS,,acc_4_213_513,Ascensor,est_4_213
+733,est_4_213,UNIVERSIDAD REY JUAN CARLOS,,acc_4_213_576,Avda. Alcalde de Móstoles,est_4_213
+734,est_4_214,MOSTOLES CENTRAL,,acc_4_214_514,Paseo de la Estación,est_4_214
+735,est_4_214,MOSTOLES CENTRAL,,acc_4_214_515,Ascensor exterior RENFE 1,est_4_214
+736,est_4_214,MOSTOLES CENTRAL,,acc_4_214_586,Goya,est_4_214
+737,est_4_214,MOSTOLES CENTRAL,,acc_4_214_587,Ascensor exterior RENFE 2,est_4_214
+738,est_4_215,PRADILLO,,acc_4_215_516,Pza. de Pradillo,est_4_215
+739,est_4_215,PRADILLO,,acc_4_215_517,Ascensor,est_4_215
+740,est_4_216,HOSPITAL DE MOSTOLES,,acc_4_216_518,Río Ebro - Río Sella,est_4_216
+741,est_4_216,HOSPITAL DE MOSTOLES,,acc_4_216_519,Ascensor,est_4_216
+742,est_4_217,MANUELA MALASAÑA,,acc_4_217_520,Plaza del Sol,est_4_217
+743,est_4_217,MANUELA MALASAÑA,,acc_4_217_521,Ascensor,est_4_217
+744,est_4_218,LORANCA,,acc_4_218_522,Avda. de Pablo Iglesias,est_4_218
+745,est_4_218,LORANCA,,acc_4_218_523,Pza. de la Concordia,est_4_218
+746,est_4_218,LORANCA,,acc_4_218_524,Ascensor,est_4_218
+747,est_4_219,HOSPITAL DE FUENLABRADA,,acc_4_219_525,Cº del Molino - Hospital,est_4_219
+748,est_4_219,HOSPITAL DE FUENLABRADA,,acc_4_219_526,Cº del Molino - Universidad,est_4_219
+749,est_4_219,HOSPITAL DE FUENLABRADA,,acc_4_219_527,Ascensor,est_4_219
+750,est_4_220,PARQUE EUROPA,,acc_4_220_528,Francia,est_4_220
+751,est_4_220,PARQUE EUROPA,,acc_4_220_529,Ascensor,est_4_220
+752,est_4_221,FUENLABRADA CENTRAL,,acc_4_221_530,Pº de la Estación,est_4_221
+753,est_4_221,FUENLABRADA CENTRAL,,acc_4_221_531,Ascensor no acceso independiente,est_4_221
+754,est_4_221,FUENLABRADA CENTRAL,,acc_4_221_589,Paseo de Roma,est_4_221
+755,est_4_221,FUENLABRADA CENTRAL,,acc_4_221_590,Ascensor exterior RENFE,est_4_221
+756,est_4_222,PARQUE DE LOS ESTADOS,,acc_4_222_532,Avda. de los Estados,est_4_222
+757,est_4_222,PARQUE DE LOS ESTADOS,,acc_4_222_533,La Habana,est_4_222
+758,est_4_222,PARQUE DE LOS ESTADOS,,acc_4_222_534,Ascensor,est_4_222
+759,est_4_223,ARROYO CULEBRO,,acc_4_223_535,Las Ciencias,est_4_223
+760,est_4_223,ARROYO CULEBRO,,acc_4_223_536,Ascensor,est_4_223
+761,est_4_224,CONSERVATORIO,,acc_4_224_537,Senda de Mafalda,est_4_224
+762,est_4_224,CONSERVATORIO,,acc_4_224_538,Ascensor,est_4_224
+763,est_4_225,ALONSO DE MENDOZA,,acc_4_225_539,Ferrocarril - El Greco,est_4_225
+764,est_4_225,ALONSO DE MENDOZA,,acc_4_225_540,Ascensor,est_4_225
+765,est_4_226,GETAFE CENTRAL,,acc_4_226_543,Paseo del Ferrocarril,est_4_226
+766,est_4_226,GETAFE CENTRAL,,acc_4_226_544,Ramon y Cajal,est_4_226
+767,est_4_226,GETAFE CENTRAL,,acc_4_226_545,Ascensor exterior RENFE 1,est_4_226
+768,est_4_227,JUAN DE LA CIERVA,,acc_4_227_546,Avda. de España pares,est_4_227
+769,est_4_227,JUAN DE LA CIERVA,,acc_4_227_547,Avda. de España impares,est_4_227
+770,est_4_227,JUAN DE LA CIERVA,,acc_4_227_548,Ascensor,est_4_227
+771,est_4_228,EL CASAR,,acc_4_228_1084,C. Gitanilla,est_4_228
+772,est_4_228,EL CASAR,,acc_4_228_1085,Ascensor,est_4_228
+773,est_4_228,EL CASAR,,acc_4_228_549,Avda. del Casar,est_4_228
+774,est_4_228,EL CASAR,,acc_4_228_550,Ascensor,est_4_228
+775,est_4_229,LOS ESPARTALES,,acc_4_229_551,Avda. de Rigoberta Menchú,est_4_229
+776,est_4_229,LOS ESPARTALES,,acc_4_229_552,Ascensor,est_4_229
+777,est_4_230,EL BERCIAL,,acc_4_230_553,El Bercial,est_4_230
+778,est_4_231,EL CARRASCAL,,acc_4_231_555,Avda. Rey Juan Carlos I pares,est_4_231
+779,est_4_231,EL CARRASCAL,,acc_4_231_556,Avda. Rey Juan Carlos I impares,est_4_231
+780,est_4_231,EL CARRASCAL,,acc_4_231_557,Ascensor,est_4_231
+781,est_4_232,JULIAN BESTEIRO,,acc_4_232_558,Avda. Rey Juan Carlos I pares,est_4_232
+782,est_4_232,JULIAN BESTEIRO,,acc_4_232_559,Avda. Rey Juan Carlos I impares,est_4_232
+783,est_4_232,JULIAN BESTEIRO,,acc_4_232_560,Ascensor,est_4_232
+784,est_4_233,CASA DEL RELOJ,,acc_4_233_561,Casa del Reloj,est_4_233
+785,est_4_233,CASA DEL RELOJ,,acc_4_233_562,Avda. de Gibraltar impares,est_4_233
+786,est_4_233,CASA DEL RELOJ,,acc_4_233_563,Ascensor,est_4_233
+787,est_4_234,HOSPITAL SEVERO OCHOA,,acc_4_234_564,Avda. de Orellana,est_4_234
+788,est_4_234,HOSPITAL SEVERO OCHOA,,acc_4_234_565,Hospital Severo Ochoa,est_4_234
+789,est_4_234,HOSPITAL SEVERO OCHOA,,acc_4_234_566,Ascensor,est_4_234
+790,est_4_235,LEGANES CENTRAL,,acc_4_235_567,Avda. del Cobre,est_4_235
+791,est_4_235,LEGANES CENTRAL,,acc_4_235_568,Ascensor,est_4_235
+792,est_4_235,LEGANES CENTRAL,,acc_4_235_592,Virgen del Camino,est_4_235
+793,est_4_235,LEGANES CENTRAL,,acc_4_235_593,Ascensor exterior RENFE,est_4_235
+794,est_4_236,SAN NICASIO,,acc_4_236_569,Avda. del Mar Mediterráneo,est_4_236
+795,est_4_236,SAN NICASIO,,acc_4_236_570,La Encina,est_4_236
+796,est_4_236,SAN NICASIO,,acc_4_236_571,Ascensor,est_4_236
