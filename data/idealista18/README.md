@@ -4,8 +4,8 @@ Este conjunto de datos es una adaptación de los datos en formato RData del paqu
 
 # Referencias
 
-Referencia al proyecto original: https://github.com/paezha/idealista18
-Paper Data In Brief preliminar que describe la estructura de la información: https://github.com/paezha/idealista18/blob/master/data-in-brief/dib-idealista18.pdf
+Referencia al proyecto original del paquete R idealista 18: https://paezha.github.io/idealista18/
+Paper Data In Brief preliminar que describe la estructura de la información: https://journals.sagepub.com/doi/10.1177/23998083241242844
 
 # Documentación
 
